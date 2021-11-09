@@ -27,7 +27,7 @@ module.exports = {
       console.log('Invalid token');
 
     }
-    return req
+    return req;
     // send to next endpoint
     
   },

@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/rjr2/BookSearchEngine#readme",
   "dependencies": {
-    "concurrently": "^6.3.0"
+    "@apollo/client": "^3.3.7",
+    "concurrently": "^6.3.0",
+    "graphql": "^16.0.1"
   }
 }
